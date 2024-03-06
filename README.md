@@ -68,6 +68,10 @@ complexity analysis.</h4>
 <br/> 
     
 <!-- eating snake graph -->
+<!-- Watch a 🐍 eating my contribution graph  -->
+## Watch a 🐍 eating my contribution graph
+![github contribution grid snake animation](https://raw.githubusercontent.com/amit-singh-coding/amit-singh-coding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/amit-singh-coding/amit-singh-coding/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amit-singh-coding.amit-singh-coding)
 
