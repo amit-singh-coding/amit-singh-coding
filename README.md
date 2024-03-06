@@ -1,5 +1,5 @@
 ![logo](https://github.com/amit-singh-coding/amit-singh-coding/blob/main/Github%20banner%20amit.png)
-<h1 align="center">Hi 👋, I'm Amit Singh</h1>
+<h1 align="center">Hi <developers/> <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="40px">, I'm <a href="https://amitsingh-portfolio.netlify.app/">Amit Singh</a></h1>
 <h3 align="center">A passionate Algorithm Developer from Mumbai</h3>
 <h4 align="center">Energetic and detail-focused algorithm developer intern
 with a strong command of Python and adept problem-
@@ -48,13 +48,49 @@ complexity analysis.</h4>
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/royalsinghd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="royalsinghd" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/royalsinghd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="royalsinghd" /></a></p><br><be>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-singh-coding&show_icons=true&locale=en&layout=compact" alt="amit-singh-coding" /></p>
+<!-- in short tech entusiast with passion for web development means username in below README.md -->
+[![Dhruva's github stats](https://github-readme-stats.vercel.app/api?username=amit-singh-coding&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-singh-coding&show_icons=true&locale=en" alt="amit-singh-coding" /></p>
+## ❤ Visitors Count 🗠:
+<p align = "center">
+  <img src="https://profile-counter.glitch.me/amit-singh-coding/count.svg" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-singh-coding&" alt="amit-singh-coding" /></p>
+## 🔥 My contribution:
+<p align="center">
+  <a>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-singh-coding&theme=dark&hide_border=true"/>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+</p>
+<br/> 
+    
+<!-- eating snake graph -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=amit-singh-coding.amit-singh-coding)
+
+<!-- github stats and graph -->
+<h1 align="center">
+<img height="30"src="sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="sparkling-stars.gif">
+</h1>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-singh-coding&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+<!--   most used langs table -->
+    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-singh-coding&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+<hr>
+                  
+ <center>
+<h2 align="center"></h2>
+
+![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+</center>
+
+<p align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"></p>
 
 
-<img align="left" width="100%" src="https://private-user-images.githubusercontent.com/16862640/288218244-a82f84ab-20c3-4bda-890e-77423bc09dea.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcwMzc2OTksIm5iZiI6MTcwNzAzNzM5OSwicGF0aCI6Ii8xNjg2MjY0MC8yODgyMTgyNDQtYTgyZjg0YWItMjBjMy00YmRhLTg5MGUtNzc0MjNiYzA5ZGVhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA0VDA5MDMxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg5YTI5ODQ5N2M2MzEyYTdmNzkyYjJhNDA5YzMzYzM4Mzg4NTQ3OTU1ZjNjODRjYWM1ZDE2MTBlNzAwN2I1NzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YN4nkJl580Pooiw0AAMZ9DywNGkFxm6s7s0UWjqDwUc" alt="coding img">
+
