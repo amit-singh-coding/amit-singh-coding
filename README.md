@@ -1,4 +1,4 @@
-![logo](https://github.com/amit-singh-coding/amit-singh-coding/blob/main/Github%20banner%20amit.png)
+![logo](https://github.com/amit-singh-coding/amit-singh-coding/blob/main/Github%20banner.png)
 <h1 align="center">Hi <developers/> <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="40px">, I'm <a href="https://amitsingh-portfolio.netlify.app/">Amit Singh</a></h1>
 <h3 align="center">A passionate Algorithm Developer from Mumbai</h3>
 <h4 align="center">Energetic and detail-focused algorithm developer intern
